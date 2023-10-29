@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋 My name is Bryuan!
 <!--
 **bryuan47/bryuan47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
