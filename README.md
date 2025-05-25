@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Microsoft Azure</b>
+- <b>Microsoft Azure / Cloud Cybersecurity Projects</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/bryuan47/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/bryuan47/azure-network-protocols)
   - [Creating a Live Soc/Honeynet in Azure](https://github.com/bryuan47/Azure-SOC)
