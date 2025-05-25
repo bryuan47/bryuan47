@@ -5,6 +5,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/bryuan47/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/bryuan47/azure-network-protocols)
+  - [Creating a Live Soc/Honeynet in Azure](https://github.com/bryuan47/Azure-SOC)
 
 <h2>🤳Connect with me:</h2>
 
