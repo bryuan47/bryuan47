@@ -1,7 +1,7 @@
-<h1>Hi, I'm Bryuan, an <a href="https://linkedin.com/in/BryuanMathis">IT Professional</a>☺</h1>
-Got it! Here’s a **cleaner GitHub profile bio** without the “Current Projects” section:
+<h1>Hi, I'm Bryuan, a <a href="https://linkedin.com/in/BryuanMathis">Python Developer</a>☺</h1>
 
----
+
+
 
 # **GitHub Profile Bio for Bryuan Mathis**
 
