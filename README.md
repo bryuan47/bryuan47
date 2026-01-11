@@ -3,7 +3,7 @@
 
 
 
-# **GitHub Profile Bio for Bryuan Mathis**
+
 
 **💻 About Me**
 Hi! I'm **Bryuan Mathis**, a passionate **Python developer** and aspiring **cybersecurity & software engineer**. I love building projects that combine **automation, game development, and backend systems**. I enjoy turning ideas into functional, clean, and efficient code.
